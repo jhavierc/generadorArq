@@ -1,0 +1,19 @@
+<generator>
+  <name>gen</name>
+  <m2t name="dao.mtl"/>
+  <m2t name="dto.mtl"/>
+  <m2t name="baseDTO.mtl"/>
+  <m2t name="entidad.mtl"/>
+  <!-- m2t name="gsonBodyHandler.mtl"/ -->
+  <m2t name="ApplicationConfig.mtl"/>
+  <m2t name="persistence.mtl"/>
+  <m2t name="logica.mtl"/>
+  <m2t name="pom.mtl"/>
+  <m2t name="servicio.mtl"/>
+  <m2t name="front/app.mtl"/>
+  <m2t name="front/controller.mtl"/>
+  <m2t name="front/index.mtl"/>
+  <m2t name="front/crud.mtl"/>
+  <m2t name="front/partial.mtl"/>
+  <m2t name="front/css.mtl"/>
+</generator>

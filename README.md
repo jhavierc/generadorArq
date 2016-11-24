@@ -1,1 +1,1 @@
-# generadorArq
+# generador
